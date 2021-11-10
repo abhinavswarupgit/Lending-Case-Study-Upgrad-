@@ -5,6 +5,7 @@ Download Links:
 <br> [Python Jupiter notbook](https://github.com/abhinavswarupgit/Lending-Case-Study-Upgrad-/blob/main/Lending%20Club%20Case%20Study.ipynb)
 <br> [HTML Read view](https://github.com/abhinavswarupgit/Lending-Case-Study-Upgrad-/blob/main/Lending%20Club%20Case%20Study.html)
 <br> [Summary PPT](https://github.com/abhinavswarupgit/Lending-Case-Study-Upgrad-/blob/main/Lending%20Club%20Case%20Study.pptx)
+<br> [Summary PDF](https://github.com/abhinavswarupgit/Lending-Case-Study-Upgrad-/blob/main/Lending%20Club%20Case%20Study_Analysis.pdf)
 
 <img src="./Slides/1.png" width="750" hieght="750">
 <img src="./Slides/2.png" width="750" hieght="750">
